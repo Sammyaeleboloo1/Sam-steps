@@ -48,7 +48,7 @@
   </section>  <section id="products">
     <h2>Our Collection</h2>
     <div class="products">
-      <img src="https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Palm Slippers">
+      <img src="https://pixabay.com/photos/shoes-leather-shoes-womens-shoes-357897/.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Palm Slippers">
       <img src="https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600" alt="Sandals">
       <img src="https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Shoes">
     </div>
